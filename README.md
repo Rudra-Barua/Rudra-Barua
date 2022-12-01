@@ -6,7 +6,7 @@ I am a proud first-generation Bangladeshi-American. I am passionate about techno
 
 ## Things I'm working on (🍂 Fall 2022)
 
-💼 **Internships**: Finishing SDE Intern @ AWS
+💼 **Internships**: Finishing SDE Internship @ AWS
 
 👨‍💻 **Courses**: Advanced Scientific Computing: Numerical Methods
 

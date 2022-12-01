@@ -2,6 +2,7 @@
 
 I am a junior at Harvard College studying Computer Science & Mathematics. 🏫
 
+I am a proud first-generation Bangladeshi-American. I am passionate about technology, business, and economics. I strongly believe that technology and the entrepreneurial spirit have the potential to empower the citizens of low-income communities and third-world countries like the ones I grew up in. I aspire to pursue these passions to the fullest to bring up the people around me and become a part of the next generation of diverse leaders in technology.
 
 ## Things I'm working on (🍂 Fall 2022)
 
@@ -54,4 +55,4 @@ I am a junior at Harvard College studying Computer Science & Mathematics. 🏫
 
 ## Links
 
-[LinkedIn](https://www.linkedin.com/in/rudra-barua/)
+[LinkedIn](https://www.linkedin.com/in/rudra-barua/) | [Email](mailto:rudrabarua@college.harvard.edu)

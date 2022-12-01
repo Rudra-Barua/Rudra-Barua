@@ -1,16 +1,46 @@
-### Hi there 👋
+## Hi, I'm Rudra 👋
 
-<!--
-**Rudra-Barua/Rudra-Barua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a junior at Harvard College studying Computer Science & Mathematics. 🏫
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Things I'm working on (🍂 Fall 2022)
+
+💼 **Internships**: Incoming SDE Intern @ Amazon
+
+👨‍💻 **Courses**: Advanced Scientific Computing: Numerical Methods
+
+💻 **Projects**: Using Nonlinear Dimensional Reduction Methods for Facial Recognition
+
+
+## Things I've worked on
+
+### 2022
+
+☀️ **Summer** / 🍂 **Fall** 
+- **Software Development Engineer Intern** @ [AWS Shield](https://aws.amazon.com/shield/)
+
+🌱 **Spring** / ☀️ **Summer**
+- **Derivatives Strategy Engineer Intern** @ [Cboe Global Markets](https://www.cboe.com/)
+
+---
+
+### 2021
+
+☀️ **Summer** / 🍂 **Fall** 
+- **Data Science Intern** @ [Benzinga](https://www.benzinga.com/)
+
+🌱 **Spring** / ☀️ **Summer**
+- **Software Engineer Intern** @ [Credit Mountain](https://www.crunchbase.com/organization/credit-mountain)
+
+---
+
+### 2020
+
+☀️ **Summer** 
+- **Software Engineer Intern** @ [TrustFund Inc](https://www.crunchbase.com/organization/trustfund-inc)
+
+
+
+## Links
+
+[LinkedIn](https://www.linkedin.com/in/rudra-barua/)

@@ -5,7 +5,7 @@ I am a junior at Harvard College studying Computer Science & Mathematics. 🏫
 
 ## Things I'm working on (🍂 Fall 2022)
 
-💼 **Internships**: Incoming SDE Intern @ Amazon
+💼 **Internships**: Finishing SDE Intern @ AWS
 
 👨‍💻 **Courses**: Advanced Scientific Computing: Numerical Methods
 
@@ -16,29 +16,39 @@ I am a junior at Harvard College studying Computer Science & Mathematics. 🏫
 
 ### 2022
 
-☀️ **Summer** / 🍂 **Fall** 
+☀️ **Summer**
 - **Software Development Engineer Intern** @ [AWS Shield](https://aws.amazon.com/shield/)
 
-🌱 **Spring** / ☀️ **Summer**
+🌱 **Spring**
 - **Derivatives Strategy Engineer Intern** @ [Cboe Global Markets](https://www.cboe.com/)
+- [Optimizing Data Generation for Reinforcement Learning](https://github.com/Rudra-Barua/OptimizedChessRL/blob/main/Final_Project_Report.pdf)
 
 ---
 
 ### 2021
 
-☀️ **Summer** / 🍂 **Fall** 
+🍂 **Fall** 
+- [Mortality Prediction Data Science Project](https://github.com/Rudra-Barua/MortalityPrediction)
+- [Automatic Differentiation Library](https://github.com/Rudra-Barua/SystemDevAutoDiffProject)
+- [Convexity and Optimization Widget](https://github.com/Rudra-Barua/OptimizationFinalProject)
+
+☀️ **Summer**
 - **Data Science Intern** @ [Benzinga](https://www.benzinga.com/)
 
-🌱 **Spring** / ☀️ **Summer**
+🌱 **Spring**
 - **Software Engineer Intern** @ [Credit Mountain](https://www.crunchbase.com/organization/credit-mountain)
+- [Boston Housing and Weather R Project](https://github.com/Rudra-Barua/BostonHousingWeatherRProject/blob/main/FinalMath23cProject.pdf)
 
 ---
 
 ### 2020
 
+🍂 **Fall** 
+- [Jot: Notetaking App](https://github.com/Rudra-Barua/jot)
+- [Case-Shiller Index and Housing Interest Data Project](https://github.com/Rudra-Barua/RCaseShillerHousingDataProject)
+
 ☀️ **Summer** 
 - **Software Engineer Intern** @ [TrustFund Inc](https://www.crunchbase.com/organization/trustfund-inc)
-
 
 
 ## Links

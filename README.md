@@ -29,6 +29,7 @@ I am a junior at Harvard College studying Computer Science & Mathematics. 🏫
 
 🍂 **Fall** 
 - [Mortality Prediction Data Science Project](https://github.com/Rudra-Barua/MortalityPrediction)
+- [FedTA: Teacher Assistant Knowledge Distillation in non-IID Federated Learning](https://jeremyzhang1.github.io/assets/CS242_Report.pdf)
 - [Automatic Differentiation Library](https://github.com/Rudra-Barua/SystemDevAutoDiffProject)
 - [Convexity and Optimization Widget](https://github.com/Rudra-Barua/OptimizationFinalProject)
 
